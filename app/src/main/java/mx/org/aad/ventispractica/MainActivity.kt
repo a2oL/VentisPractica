@@ -15,12 +15,8 @@ import mx.org.aad.ventispractica.view.fragments.FragmentActualizar
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-    private lateinit var bindingF1: Fragment1Binding
-    private lateinit var bindingF2: Fragment2Binding
-    private lateinit var bindingF3: Fragment3Binding
 
     private  val fragmentsViewModel: MainViewModel by viewModels()
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
