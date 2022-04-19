@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VentisPractica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo_fragment">Mi titulo</string>
+    <string name="descripcion">Descripcion de la imagen</string>
+    <string name="str_btn_act">Actualizar</string>
+
+
+    <string name="titulo_1">Titulo de Prueba 1</string>
+    <string name="titulo_2">Titulo de Prueba 2</string>
+
+    <string name="descri_1">Descripcion de prueba 1</string>
+    <string name="descri_2">Descripcion de prueba 2</string>
+</resources>
